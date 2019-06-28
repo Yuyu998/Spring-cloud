@@ -12,9 +12,9 @@ spring:
         native:
           search-locations: classpath:/config
 
-#        git:
-#          uri: https://github.com/你的用户路径/sp-config
-#          searchPaths: config
+        git:
+          uri: https://github.com/你的用户路径/sp-config
+          searchPaths: config
 #          username: your-username
 #          password: your-password
         
