@@ -6,7 +6,8 @@ spring:
 # 激活本地配置
   profiles:
     active: native
-  
+ 
+ #默认 
   cloud:
     config:
       server:
