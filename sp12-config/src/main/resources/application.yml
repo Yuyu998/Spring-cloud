@@ -2,7 +2,8 @@ spring:
   application:
     name: config-server
     
-    
+  
+# 激活本地配置
   profiles:
     active: native
   
